@@ -1,0 +1,9 @@
+Started Fresh Game
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+Player 0 rolled a 7
+Player 0 landed on Irdell Ave (space number 7)
+Turn Ended! Player 0 has $800
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+Player 1 rolled a 6
+Player 1 landed on Liverpool Rd (space number 6)
+Turn Ended! Player 1 has $800
